@@ -1,6 +1,6 @@
 Source code for a paper on the research of "diagnosing sarcopenia with data mining methods".
 
-# See Part 5 ~ Part 8 for leave-one-out and k-fold cross validation.
+# See Part 5 ~ Part 8 for the result of leave-one-out and k-fold cross validation.
 
 The set up in these files are not exactly the same as we presented in our paper, we are using 9 features here. but we shall get the same result if we change the set up to follow that we use in our paper for leave-one-out cross validation.
 

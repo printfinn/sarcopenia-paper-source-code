@@ -1,0 +1,13 @@
+/Backup
+/.ipynb_checkpoints
+/__pycache__
+/dataset_new
+/img
+/Paper
+/utils/.ipynb_checkpoints
+/utils/__pycache__
+
+*.tex
+*.docx
+NN_Log.txt
+SVM_Log.txt
